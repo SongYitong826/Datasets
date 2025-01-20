@@ -1,5 +1,6 @@
 # Datasets
 用于Range查询的数据集，其中ranges中包含了选择率为0.1%和1%时的查询距离阈值，neighbors_01和neighbors_1中包含了选择率为0.1%和1%时的查询结果ID，distances_01和distances_1中包含了选择率为0.1%和1%时的查询结果距离。
+GloVe、Nytimes以及GIST的原始数据和查询文件见：https://github.com/erikbern/ann-benchmarks
 
 ## 数据集下载
 
